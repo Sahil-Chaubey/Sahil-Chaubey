@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <br>
-<br>
+
 
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chaubey&show_icons=true&theme=radical"/>
 <br>
@@ -50,7 +50,7 @@
   &nbsp; <a href="https://www.linkedin.com/in/sahil-chaubey/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="50" /></a>
 
 <br>
-<br>
+
   
 </p>
 
