@@ -37,7 +37,7 @@
 <br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chaubey&show_icons=true&theme=radical"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chaubey&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chaubey&layout=compact"/>
 
 <br>
 <br>
