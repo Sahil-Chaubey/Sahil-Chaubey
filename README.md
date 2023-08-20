@@ -36,13 +36,13 @@
 <br>
 <br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chaubey&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chaubey&layout=compact"/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Chaubey&show_icons=true&theme=radical"/>
+<br>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Chaubey&layout=compact"/>
 
 <br>
-<br>
-<br>
-<br>
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/tdghulk__op/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
