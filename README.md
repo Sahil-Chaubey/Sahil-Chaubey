@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="left">About Me:</h3>
+
 🌱 I’m currently learning **MySql**
 
 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/sahil-chaubey/sites](https://app.netlify.com/teams/sahil-chaubey/sites)
