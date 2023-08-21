@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MySql**
+🌱 I’m currently learning **MySql**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/sahil-chaubey/sites](https://app.netlify.com/teams/sahil-chaubey/sites)
+👨‍💻 All of my projects are available at [https://app.netlify.com/teams/sahil-chaubey/sites](https://app.netlify.com/teams/sahil-chaubey/sites)
 
-- 💬 Ask me about **React, Tailwind, Node, etc**
+💬 Ask me about **React, Tailwind, Node, etc**
 
-- 📫 How to reach me **sahilchaubey25@gmail.com**
+📫 How to reach me **sahilchaubey25@gmail.com**
 
 
 
